@@ -1,0 +1,17 @@
+
+.custom-checkbox .custom-control-input:checked ~ .custom-control-label:before {
+  background-color: #ff4f6c;
+  border-color: #ff4f6c;
+}
+
+.custom-checkbox .custom-control-input:focus ~ .custom-control-label:before {
+  -webkit-box-shadow: none;
+          box-shadow: none;
+}
+
+.custom-control {
+    margin: 11px 20px;
+
+    
+}
+
